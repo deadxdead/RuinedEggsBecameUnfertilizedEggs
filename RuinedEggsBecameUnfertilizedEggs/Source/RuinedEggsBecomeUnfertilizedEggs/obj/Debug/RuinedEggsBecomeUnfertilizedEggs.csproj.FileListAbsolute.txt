@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RuinedEggsBecameUnfertilizedEggs\Assemblies\RuinedEggsBecomeUnfertilizedEggs.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RuinedEggsBecameUnfertilizedEggs\Source\RuinedEggsBecomeUnfertilizedEggs\obj\Debug\RuinedEggsBecomeUnfertilizedEggs.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RuinedEggsBecameUnfertilizedEggs\Source\RuinedEggsBecomeUnfertilizedEggs\obj\Debug\RuinedEggsBecomeUnfertilizedEggs.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RuinedEggsBecameUnfertilizedEggs\Source\RuinedEggsBecomeUnfertilizedEggs\obj\Debug\RuinedEggsBecomeUnfertilizedEggs.dll
